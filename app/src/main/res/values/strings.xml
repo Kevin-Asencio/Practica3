@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="txtbtnVer">Ver Lista</string>
+    <string name="txtRegistrar">Agregar Nombre</string>
+    <string name="txtDatos">Datos</string>
+    <string name="chooser_title">Elija Practica3 :)</string>>
+    <string name="Nombre">Kevin Mauricio Asencio Hidalgo</string>
+    <string name="codigo">AH16-I04-001</string>
+    <string name="txtAgregar">Ingresar nombre:</string>
+    <string name="txtProcesar">Procesar</string>
+
+
+</resources>
